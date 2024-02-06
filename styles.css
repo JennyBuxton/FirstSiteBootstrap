@@ -1,0 +1,32 @@
+.navbar {
+  background-color: #7f1415;
+}
+
+.btn{
+	color: var(--bs-red);
+}
+
+
+a:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #7f1415;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white
+  background-color: red
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
